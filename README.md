@@ -1,0 +1,2 @@
+# wsic
+trying new project
